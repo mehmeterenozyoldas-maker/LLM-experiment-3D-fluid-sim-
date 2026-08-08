@@ -1,0 +1,6 @@
+{
+  "name": "NebulaFlow 3D",
+  "description": "An interactive, real-time 3D fluid dynamics and cosmic nebula simulation lab powered by Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
